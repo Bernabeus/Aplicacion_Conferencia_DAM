@@ -3,7 +3,7 @@
     <ion-buttons slot="start">
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
-    <ion-title>Oradores</ion-title>
+    <ion-title style="color: #001F3E;">Oradores</ion-title>
   </ion-toolbar>
 </ion-header>
 
@@ -15,15 +15,15 @@
   </ion-header>
 
   <ion-grid fixed>
-    <ion-row>
+    <ion-row style="background-color: #D63714">
       <ion-col size="12" size-md="6" *ngFor="let speaker of speakers">
-        <ion-card class="speaker-card">
+        <ion-card class="speaker-card" >
           <ion-card-header>
-            <ion-item detail="false" lines="none" class="speaker-item" routerLink="/app/tabs/speakers/speaker-details/{{speaker.id}}">
+            <ion-item detail="false" lines="none" class="speaker-item" routerLink="/app/tabs/speakers/speaker-details/{{speaker.id}}" >
               <ion-avatar slot="start">
                 <img [src]="speaker.profilePic" [alt]="speaker.name + ' profile picture'">
               </ion-avatar>
-              <ion-label>
+              <ion-label style="color: #365D7B;">
                 <h2>{{speaker.name}}</h2>
                 <p>{{speaker.title}}</p>
               </ion-label>
@@ -33,13 +33,13 @@
           <ion-card-content>
             <ion-list lines="none">
               <ion-item *ngFor="let session of speaker.sessions" detail="false" routerLink="/app/tabs/speakers/session/{{session.id}}">
-                <ion-label>
+                <ion-label style="color: #365D7B;">
                   <h3>{{session.name}}</h3>
                 </ion-label>
               </ion-item>
 
               <ion-item detail="false" routerLink="/app/tabs/speakers/speaker-details/{{speaker.id}}">
-                <ion-label>
+                <ion-label style="color: #365D7B;">
                   <h3>Sobre {{speaker.name}}</h3>
                 </ion-label>
               </ion-item>

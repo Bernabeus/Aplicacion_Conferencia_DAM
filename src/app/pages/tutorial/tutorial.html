@@ -6,8 +6,20 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content fullscreen="true">
+<ion-content fullscreen="true" >
   <swiper (swiper)="setSwiperInstance($event)" (slideChangeTransitionStart)="onSlideChangeStart()">
+    <ng-template swiperSlide>
+      <img src="assets/img/logoEPN.png" class="slide-image" style="width: 350px; height: 250px;"/>
+      <h2 class="slide-title">
+        Esta aplicación fue modificada por 
+      </h2>
+        <p style="color: #000000;">Alba Jorge</p>
+        <p style="color: #000000;">Bernabé Dávila</p>
+        <p style="color: #000000;">Bolaños Juan</p>
+        <p style="color: #000000;">Huaraca Byron</p>
+      
+    </ng-template>
+
     <ng-template swiperSlide>
       <img src="assets/img/ica-slidebox-img-1.png" class="slide-image" />
       <h2 class="slide-title">

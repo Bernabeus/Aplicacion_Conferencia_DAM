@@ -1,0 +1,467 @@
+{
+  "schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+        {
+          "time": "8:00 am",
+          "sessions": [
+            {
+              "name": "Desayuno",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Comedor",
+              "tracks": ["Comida"],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "time": "9:15 am",
+          "sessions": [
+            {
+              "name": "Introducción a Ionic",
+              "location": "Sala 2",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las características nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular. ",
+              "speakerNames": ["Ted Turtle"],
+              "timeStart": "9:30 am",
+              "timeEnd": "9:45 am",
+              "tracks": ["Ionic"],
+              "id": "2"
+            },
+            {
+              "name": "Herramientas de Ionic",
+              "location": "Salón de baile ejecutivo",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las características nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular. ",
+              "speakerNames": ["Rachel Rabbit"],
+              "timeStart": "9:45 am",
+              "timeEnd": "10:00 am",
+              "tracks": ["Herramientas"],
+              "id": "3"
+            },
+            {
+              "name": "Universidad de Ionic",
+              "location": "Sala 3",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las características nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular. ",
+              "speakerNames": ["Ellie Elephant"],
+              "timeStart": "9:15 am",
+              "timeEnd": "9:30 am",
+              "tracks": ["Ionic"],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "time": "10:00 am",
+          "sessions": [
+            {
+              "name": "Migrando a Ionic",
+              "location": "Sala 1",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular. ",
+              "speakerNames": ["Eva Eagle", "Lionel Lion"],
+              "timeStart": "10:00 am",
+              "timeEnd": "10:15 am",
+              "tracks": ["Ionic"],
+              "id": "5"
+            },
+            {
+              "name": "Novedades de Angular",
+              "location": "Sala 3",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular. ",
+              "speakerNames": ["Rachel Rabbit"],
+              "timeStart": "10:15 am",
+              "timeEnd": "10:30 am",
+              "tracks": ["Angular"],
+              "id": "6"
+            },
+            {
+              "name": "La evolución de Ionicons",
+              "location": "Sala 2",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular. ",
+              "speakerNames": ["Isabella Iguana", "Eva Eagle"],
+              "timeStart": "10:15 am",
+              "timeEnd": "10:30 am",
+              "tracks": ["Diseño"],
+              "id": "7"
+            },
+            {
+              "name": "Ionic Pro",
+              "location": "Grand Ballroom A",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular. ",
+              "speakerNames": ["Charlie Cheetah"],
+              "timeStart": "10:45 am",
+              "timeEnd": "11:00 am",
+              "tracks": ["Servicios"],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "time": "11:00 am",
+          "sessions": [
+            {
+              "name": "Taller Ionic",
+              "location": "Sala 1",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular.",
+              "speakerNames": ["Karl Kitten", "Lionel Lion"],
+              "timeStart": "11:00 am",
+              "timeEnd": "11:45 am",
+              "tracks": ["Workshop"],
+              "id": "9"
+            },
+            {
+              "name": "Interacción con la comunidad",
+              "location": "Sala 3",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular.",
+              "speakerNames": ["Lionel Lion", "Gino Giraffe"],
+              "timeStart": "11:30 am",
+              "timeEnd": "11:50 am",
+              "tracks": ["Comunicación"],
+              "id": "10"
+            },
+            {
+              "name": "Navegación en Ionic",
+              "location": "Grand Ballroom A",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular.",
+              "speakerNames": ["Rachel Rabbit", "Eva Eagle"],
+              "timeStart": "11:30 am",
+              "timeEnd": "12:00 pm",
+              "tracks": ["Navegación"],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "time": "12:00 pm",
+          "sessions": [
+            {
+              "name": "Almuerzo",
+              "location": "Sala de estar",
+              "description": "Ven a almorzar con todos los fanáticos de Ionic y habla de todo lo relacionado con Ionic",
+              "timeStart": "12:00 pm",
+              "timeEnd": "1:00 pm",
+              "tracks": ["Comida"],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "time": "1:00 pm",
+          "sessions": [
+            {
+              "name": "Ionic en la empresa",
+              "location": "Sala 1",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular.",
+              "speakerNames": ["Paul Puppy"],
+              "timeStart": "1:00 pm",
+              "timeEnd": "1:15 pm",
+              "tracks": ["Comunicación"],
+              "id": "13"
+            },
+            {
+              "name": "Ionic Worldwide",
+              "location": "Sala 1",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular.",
+              "speakerNames": ["Gino Giraffe"],
+              "timeStart": "1:15 pm",
+              "timeEnd": "1:30 pm",
+              "tracks": ["Communicación"],
+              "id": "14"
+            },
+            {
+              "name": "El paquete de Ionic",
+              "location": "Grand Ballroom B",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular.",
+              "speakerNames": ["Molly Mouse", "Burt Bear"],
+              "timeStart": "1:30 pm",
+              "timeEnd": "2:00 pm",
+              "tracks": ["Servicios"],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "time": "2:00 pm",
+          "sessions": [
+            {
+              "name": "Notificaciones automáticas en Ionic",
+              "location": "Sala 2",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular.",
+              "speakerNames": ["Burt Bear", "Charlie Cheetah"],
+              "timeStart": "2:00 pm",
+              "timeEnd": "2:30 pm",
+              "tracks": ["Servicios"],
+              "id": "16"
+            },
+            {
+              "name": "Documentación de Ionic",
+              "location": "Grand Ballroom B",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular.",
+              "speakerNames": ["Donald Duck"],
+              "timeStart": "2:30 pm",
+              "timeEnd": "2:45 pm",
+              "tracks": ["Documentación"],
+              "id": "17"
+            },
+            {
+              "name": "UX en Ionic",
+              "location": "Sala 3",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular.",
+              "speakerNames": ["Isabella Iguana", "Ellie Elephant"],
+              "timeStart": "2:45 pm",
+              "timeEnd": "3:00 pm",
+              "tracks": ["Diseño"],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "time": "3:00",
+          "sessions": [
+            {
+              "name": "Directivas angulares en Ionic",
+              "location": "Sala 1",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular.",
+              "speakerNames": ["Ted Turtle"],
+              "timeStart": "3:00 pm",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Angular"],
+              "id": "19"
+            },
+            {
+              "name": "Estados móviles",
+              "location": "Sala 2",
+              "description": "Los navegadores y dispositivos móviles ahora son lo suficientemente avanzados como para que los desarrolladores puedan crear aplicaciones móviles de calidad nativa utilizando tecnologías web abiertas como HTML5, Javascript y CSS. En esta charla, proporcionaremos antecedentes sobre por qué y cómo creamos Ionic , las decisiones de diseño que tomamos cuando integramos Ionic con Angular, y las consideraciones de rendimiento para plataformas móviles que nuestro equipo tuvo que superar. También revisaremos las funciones nuevas y futuras de Ionic, y hablaremos sobre los poderes ocultos y los beneficios de combinar el desarrollo de aplicaciones móviles y Angular.",
+              "speakerNames": ["Rachel Rabbit"],
+              "timeStart": "3:30 pm",
+              "timeEnd": "3:45 pm",
+              "tracks": ["Navigación"],
+              "id": "20"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "speakers": [
+    {
+      "name": "Burt Bear",
+      "profilePic": "/assets/img/speakers/bear.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Burt es un oso. Los intereses de Burt incluyen la poesía, los héroes espaciales y los leones.",
+      "title": "Ingeniero en Software",
+      "location": "En todas partes",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "1"
+    },
+    {
+      "name": "Charlie Cheetah",
+      "profilePic": "/assets/img/speakers/cheetah.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Charlie es un guepardo. Los intereses de Charlie incluyen música country, animales de peluche, pirotecnia y esqueletos.",
+      "title": "Ingeniero en Software",
+      "location": "En todas partes",
+      "email": "charlie@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "2"
+    },
+    {
+      "name": "Donald Duck",
+      "profilePic": "/assets/img/speakers/duck.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Donald es un pato. Los intereses de Donald incluyen carpintería, superhéroes, merpeople y glam rock.",
+      "title": "Ingeniero de software",
+      "location": "En todas partes",
+      "email": "donald@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "3"
+    },
+    {
+      "name": "Eva Eagle",
+      "profilePic": "/assets/img/speakers/eagle.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Eva es un águila. Los intereses de Eva incluyen hormigas, conchas marinas y cupcakes",
+      "title": "Defensor del desarrollador",
+      "location": "En todas partes",
+      "email": "eva@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "4"
+    },
+    {
+      "name": "Ellie Elephant",
+      "profilePic": "/assets/img/speakers/elephant.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Ellie es un elefante. Los intereses de Ellie incluyen relojes de bolsillo, billar, abanicos y ninjas.",
+      "title": "Ingeniero en Software",
+      "location": "En todas partes",
+      "email": "ellie@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "5"
+    },
+    {
+      "name": "Gino Giraffe",
+      "profilePic": "/assets/img/speakers/giraffe.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Gino es una jirafa. Los intereses de Gino incluyen hacer dulces, unicornios y pajareras.",
+      "title": "Ingeniero en Software",
+      "location": "En todas partes",
+      "email": "gino@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "6"
+    },
+    {
+      "name": "Isabella Iguana",
+      "profilePic": "/assets/img/speakers/iguana.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Isabella es una iguana. Los intereses de Isabella incluyen los cristales, la arquitectura y la fabricación de velas.",
+      "title": "Ingeniero en Software",
+      "location": "En todas partes",
+      "email": "isabella@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "7"
+    },
+    {
+      "name": "Karl Kitten",
+      "profilePic": "/assets/img/speakers/kitten.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Karl es un gatito. Los intereses de Karl incluyen el esquí, las joyas y el bordado.",
+      "title": "Defensor del desarrollador",
+      "location": "En todas partes",
+      "email": "karl@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "8"
+    },
+    {
+      "name": "Lionel Lion",
+      "profilePic": "/assets/img/speakers/lion.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Lionel es un León. Los intereses de Lionel incluyen los lagartos y las matemáticas.",
+      "title": "Defensor del desarrollador",
+      "location": "En todas partes",
+      "email": "lionel@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "9"
+    },
+    {
+      "name": "Molly Mouse",
+      "profilePic": "/assets/img/speakers/mouse.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Molly es un ratón. Los intereses de Molly incluyen los hombres lobo y la magia",
+      "title": "Ingeniero en Software",
+      "location": "En todas partes",
+      "email": "molly@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "10"
+    },
+    {
+      "name": "Paul Puppy",
+      "profilePic": "/assets/img/speakers/puppy.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Paul es un cachorro. Los intereses de Paul incluyen mapas, ballenas y dragones.",
+      "title": "Ingeniero en Software",
+      "location": "En todas partes",
+      "email": "paul@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "11"
+    },
+    {
+      "name": "Rachel Rabbit",
+      "profilePic": "/assets/img/speakers/rabbit.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Rachel es un conejo. Los intereses de Rachel incluyen payasos, esqueletos y yoyos.",
+      "title": "Senior en Ingeniero en Software",
+      "location": "En todas partes",
+      "email": "rachel@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "12"
+    },
+    {
+      "name": "Ted Turtle",
+      "profilePic": "/assets/img/speakers/turtle.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "about": "Ted es una tortuga. Los intereses de Ted incluyen las mariposas, el esquí y los cupcakes",
+      "title": "Ingeniero en Software",
+      "location": "En todas partes",
+      "email": "ted@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "13"
+    }
+  ],
+
+  "map": [
+    {
+      "name": "Monona Terrace Convention Center",
+      "lat": 43.071584,
+      "lng": -89.38012,
+      "center": true
+    },
+    {
+      "name": "Ionic HQ",
+      "lat": 43.074395,
+      "lng": -89.381056
+    },
+    {
+      "name": "Afterparty - Brocach Irish Pub",
+      "lat": 43.07336,
+      "lng": -89.38335
+    }
+  ],
+
+  "tracks": [
+    {
+      "name": "Angular",
+      "icon": "logo-angular"
+    },
+    {
+      "name": "Documentacion",
+      "icon": "document"
+    },
+    {
+      "name": "Comida",
+      "icon": "restaurant"
+    },
+    {
+      "name": "Ionic",
+      "icon": "logo-ionic"
+    },
+    {
+      "name": "Herramientas",
+      "icon": "hammer"
+    },
+    {
+      "name": "Diseño",
+      "icon": "color-palette"
+    },
+    {
+      "name": "Servicios",
+      "icon": "cog"
+    },
+    {
+      "name": "Workshop",
+      "icon": "construct"
+    },
+    {
+      "name": "Communicacioón",
+      "icon": "call"
+    },
+    {
+      "name": "Navegacion",
+      "icon": "compass"
+    }
+  ]
+}

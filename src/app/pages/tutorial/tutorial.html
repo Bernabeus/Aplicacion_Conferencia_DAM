@@ -5,30 +5,32 @@
     </ion-buttons>
   </ion-toolbar>
 </ion-header>
-
-<ion-content fullscreen="true" >
+<ion-content fullscreen="true">
   <swiper (swiper)="setSwiperInstance($event)" (slideChangeTransitionStart)="onSlideChangeStart()">
     <ng-template swiperSlide>
-      <img src="assets/img/logoEPN.png" class="slide-image" style="width: 350px; height: 250px;"/>
-      <h2 class="slide-title">
-        Esta aplicación fue modificada por 
-      </h2>
-        <p style="color: #000000;">Alba Jorge</p>
-        <p style="color: #000000;">Bernabé Dávila</p>
-        <p style="color: #000000;">Bolaños Juan</p>
-        <p style="color: #000000;">Huaraca Byron</p>
-      
+      <img src="assets/img/logoEPN.png" class="slide-image" style="width: 350px; height: 250px;" />
+      <div class="tutorial__title titles">
+        Esta aplicación fue modificada por:
+      </div>
+      <div class="tutorial__names text-20">
+        <label>Alba Jorge</label>
+        <label>Bernabé Dávila</label>
+        <label>Bolaños Juan</label>
+        <label>Huaraca Byron</label>
+      </div>
+
     </ng-template>
 
     <ng-template swiperSlide>
       <img src="assets/img/ica-slidebox-img-1.png" class="slide-image" />
       <h2 class="slide-title">
-        Bienvenido a 
+        Bienvenido a
         <b>ICA</b>
       </h2>
       <p>
         La
-        <b>aplicacion en ionic de conferencia</b> es una vista previa práctica del marco ionic en acción y una demostración del uso adecuado del código.
+        <b>aplicacion en ionic de conferencia</b> es una vista previa práctica del marco ionic en acción y una
+        demostración del uso adecuado del código.
       </p>
     </ng-template>
 
@@ -36,16 +38,20 @@
       <img src="assets/img/ica-slidebox-img-2.png" class="slide-image" />
       <h2 class="slide-title">Que es Ionic?</h2>
       <p>
-        <b>El Framework Ionic</b> es una SDK de codigo abierto que permite a los desarrolladores crear aplicaciones móviles de alta calidad con tecnologías web
-        como HTML, CSS, y JavaScript.</p>
+        <b>El Framework Ionic</b> es una SDK de codigo abierto que permite a los desarrolladores crear aplicaciones
+        móviles de alta calidad con tecnologías web
+        como HTML, CSS, y JavaScript.
+      </p>
     </ng-template>
 
     <ng-template swiperSlide>
       <img src="assets/img/ica-slidebox-img-3.png" class="slide-image" />
       <h2 class="slide-title">¿Qué es Ionic Appflow?</h2>
       <p>
-        <b>Ionic Appflow</b> es un poderoso conjunto de servicios y características construido sobre Ionic Framework que trae un nivel de agilidad en el desarrollo de 
-        aplicaciones para los equipos de desarrollo móviles. </p>
+        <b>Ionic Appflow</b> es un poderoso conjunto de servicios y características construido sobre Ionic Framework que
+        trae un nivel de agilidad en el desarrollo de
+        aplicaciones para los equipos de desarrollo móviles.
+      </p>
     </ng-template>
 
     <ng-template swiperSlide>
@@ -57,4 +63,8 @@
       </ion-button>
     </ng-template>
   </swiper>
+  <div class="tutorial__slide-label">
+    <ion-label>DESLIZA</ion-label>
+    <ion-icon name="arrow-forward-circle-outline"></ion-icon>
+  </div>
 </ion-content>

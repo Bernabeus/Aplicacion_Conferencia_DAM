@@ -3,28 +3,51 @@ ion-toolbar {
   --border-color: transparent;
 }
 
-.slide-title {
-  margin-top: 2.8rem;
+.tutorial {
+  &__title {
+    margin: 15px auto;
+  }
+  &__names {
+    display: flex;
+    flex-direction: column;
+    label {
+      margin-bottom: 10px;
+    }
+  }
+  &__slide-label {
+    text-align: center;
+  }
 }
 
 .slide-image {
-  max-height: 50%;
-  max-width: 60%;
+  max-height: 350px;
+  width: auto !important;
+  height: auto !important;
   margin: 36px 0;
   pointer-events: none;
 }
 
-b {
-  font-weight: 500;
+.names {
+  display: flex;
+  flex-direction: column;
+  label {
+    margin-bottom: 10px;
+  }
 }
 
-p {
-  padding: 0 40px;
-  font-size: 14px;
-  line-height: 1.5;
-  color: var(--ion-color-step-600, #60646b);
+.titles {
+  font-size: 25px;
+  font-weight: bold;
+}
 
-  b {
-    color: var(--ion-text-color, #000000);
-  }
+.text-20 {
+  font-size: 20px;
+}
+
+.text-40 {
+  font-size: 40px;
+}
+
+* {
+  font-family: "Oswald", sans-serif;
 }

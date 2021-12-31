@@ -9,13 +9,17 @@ Esta aplicación fue clonada de otro repositorio y modificado por los siguientes
 
 ## Propósito de la práctica
 
-Las versiones de NodeJS y Ionic que utilizamos para esta practica no son las mas actuales. El propósito de esta tarea es utilizar y optimizar una app para que funcionen con versiones antiguas de NodeJS y Ionic.
+Se busca utilizar proyectos ya desarrollados en paginas como Ionic MarketPlace[https://market.ionicframework.com/] o de repositorios públicos de Github, con el objetivo de saber reutilizarlos para proyectos diferentes y la posibildad de ahorrar tiempo. 
 
 ## Descarga e instalación del proyecto
 
 1. Clonamos o descargamos el repositorio que se encuentra en <<https://github.com/ionic-team/ionic-conference-app>>
 
-2. Para descargar todas las dependencias del proyecto 
+2. Para descargar todas las dependencias del proyecto utilizamos "npm install -i"
+
+3. Para mooo de desarrollo podemos correrlo en un servidor web con "ionic serve" 
+
+
 
 ## Previsualización de las Páginas
 
@@ -23,11 +27,8 @@ Las versiones de NodeJS y Ionic que utilizamos para esta practica no son las mas
 | Menú  | Schedule |
 | -----------------| -----|
 | ![Android Menu](/resources/screenshots/android-menu.png) | ![Android Schedule](/resources/screenshots/android-schedule.png) |
-| -----------------| -----|
 | Speaker| Speaker Detail|
-| -----------------| -----|
 |   ![Android Speakers](/resources/screenshots/android-speakers.png)  |   ![Android Speaker Detail](/resources/screenshots/android-speaker-detail.png)   |
-| -----------------| -----|
 | About | Tutorial |
 | ![Android About](/resources/screenshots/android-about.png)   | ![Android About](/resources/screenshots/tutorial.png)  |
 

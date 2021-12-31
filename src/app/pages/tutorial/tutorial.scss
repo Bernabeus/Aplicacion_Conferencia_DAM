@@ -15,12 +15,15 @@ ion-toolbar {
     }
   }
   &__slide-label {
-    text-align: center;
+    text-align: right;
+    position: absolute;
+    bottom: 0;
+    right: 0;
   }
 }
 
 .slide-image {
-  max-height: 350px;
+  max-height: 200px;
   width: auto !important;
   height: auto !important;
   margin: 36px 0;
